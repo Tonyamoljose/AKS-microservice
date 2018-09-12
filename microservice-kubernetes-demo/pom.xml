@@ -54,7 +54,7 @@
    				<version>2.3</version>
 			</plugin>
       		<!-- Plugin for Sonar Coverage Check -->
-            <plugin>
+        <!--    <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.7.9</version>
@@ -72,7 +72,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin> -->
 			<!-- Sonar-JaCoCo integration plugin -->
 			<plugin>
 				<groupId>org.jacoco</groupId>
