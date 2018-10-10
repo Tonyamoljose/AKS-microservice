@@ -1,0 +1,5 @@
+apache:$(Build.BuildId)
+catalog:$(Build.BuildId)
+customer:$(Build.BuildId)
+dashboard:$(Build.BuildId)
+demo:$(Build.BuildId)
