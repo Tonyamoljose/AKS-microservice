@@ -1,5 +1,5 @@
-apache:$(Build.BuildId)
-catalog:$(Build.BuildId)
-customer:$(Build.BuildId)
-dashboard:$(Build.BuildId)
-demo:$(Build.BuildId)
+apache:img_id
+catalog:img_id
+customer:img_id
+dashboard:img_id
+demo:img_id
